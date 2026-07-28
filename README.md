@@ -1,9 +1,9 @@
 # 👨‍💻 About Me
 
-Hey! I’m **Avideepth**, also known as **Lunatic**.  
+Hey! I’m **Avideepth**.
 I’m a **MCA graduate** with a deep passion for **Cybersecurity, Ethical Hacking, and Penetration Testing**.
 
-I enjoy identifying vulnerabilities, securing systems, playing ctf challenges, and building tools and techniques. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
+I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, and building tools and techniques. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
 
 ---
 
@@ -63,4 +63,4 @@ I enjoy identifying vulnerabilities, securing systems, playing ctf challenges, a
 
 ---
 
-> “Security is not a product, but a process.” — Bruce Schneier
+> “Security is not a product, but a process.”
