@@ -1,9 +1,9 @@
 # 👨‍💻 About Me
 
 Hey! I’m **Avideepth**, also known as **Lunatic**.  
-I’m currently pursuing my **MCA degree** and have a deep passion for **Cybersecurity, Ethical Hacking, and Malware Analysis**.
+I’m a **MCA graduate** with a deep passion for **Cybersecurity, Ethical Hacking, and Penetration Testing**.
 
-I enjoy identifying vulnerabilities, securing systems, analyzing malware behavior, and building stronger defensive strategies. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
+I enjoy identifying vulnerabilities, securing systems, playing ctf challenges, and building tools and techniques. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
 
 ---
 
@@ -24,7 +24,6 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-252525?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C2C2C?style=for-the-badge&logo=airplayaudio&logoColor=white)
 
 ---
 
@@ -32,9 +31,9 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 - Web Application Security Testing
 - Vulnerability Assessment & Penetration Testing (VAPT)
-- Malware Analysis & Reverse Engineering
 - Network Traffic Analysis
 - Reconnaissance & Enumeration
+- OSINT
 - Linux System Administration
 - Secure Coding Practices
 - Threat Analysis & Incident Response
@@ -45,21 +44,7 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 - **Operating Systems** — Kali Linux, Windows, Metasploitable, REMnux, FlareVM
 - **Security Frameworks** — OWASP Top 10, MITRE ATT&CK, YARA
-- **Tools & Utilities** — Burp Suite, Nmap, Wireshark, Aircrack-ng, Metasploit
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avideepth-behera&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avideepth-behera&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avideepth-behera&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+- **Tools & Utilities** — Burp Suite, Nmap, Wireshark, Metasploit
 
 ---
 
@@ -75,16 +60,6 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=avideepth-behera&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
----
-
-# 🧩 Current Focus
-
-- Ethical Hacking & Penetration Testing
-- Malware Analysis
-- Web Application Security
-- Threat Detection & Analysis
-- Building Cybersecurity Projects
 
 ---
 
