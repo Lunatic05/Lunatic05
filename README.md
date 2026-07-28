@@ -52,6 +52,9 @@ I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avideepth-behera/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avideepth2002@gmail.com)
+[![BreachLab](https://img.shields.io/badge/BreachLab-Profile-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://breachlab.org/u/avideepth)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/avideepth)
+
 
 ---
 
