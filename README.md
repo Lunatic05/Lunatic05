@@ -1,9 +1,15 @@
 # 👨‍💻 About Me
 
-Hey! I’m **Avideepth**.
-I’m a **MCA graduate** with a deep passion for **Cybersecurity, Ethical Hacking, and Penetration Testing**.
+```text
+> whoami
 
-I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, and building tools and techniques. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
+Avideepth
+
+```
+
+A curious mind driven by cybersecurity, fuelled by challenges, and always chasing the next thing to learn. Whether I'm dissecting web applications, solving CTFs, building security tools, or diving into new attack techniques, I enjoy understanding how things work—and how they can be made stronger.
+
+Beyond the terminal, I'm a gamer and an anime enthusiast. The same curiosity, persistence, and never-stop-improving mindset follow me everywhere.
 
 ---
 
@@ -42,8 +48,8 @@ I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, a
 
 # 🖥️ Platforms & Environments
 
-- **Operating Systems** — Kali Linux, Windows, Metasploitable, REMnux, FlareVM
-- **Security Frameworks** — OWASP Top 10, MITRE ATT&CK, YARA
+- **Operating Systems** — Kali Linux, Windows, Metasploitable, Ubuntu
+- **Security Frameworks** — OWASP Top 10, MITRE ATT&CK
 - **Tools & Utilities** — Burp Suite, Nmap, Wireshark, Metasploit
 
 ---
@@ -55,7 +61,6 @@ I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, a
 [![BreachLab](https://img.shields.io/badge/BreachLab-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://breachlab.org/u/avideepth)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/avideepth)
 
-
 ---
 
 # 👀 Profile Views
@@ -66,4 +71,4 @@ I enjoy identifying vulnerabilities, securing systems, solving ctf challenges, a
 
 ---
 
-> “Security is not a product, but a process.”
+> **"Stay curious. Stay dangerous. Stay ethical."**
