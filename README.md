@@ -1,8 +1,7 @@
 # 👨‍💻 About Me
 
-```text
+```bash
 > whoami
-
 Avideepth
 
 ```
